@@ -59,3 +59,5 @@ Hotspot pattern analysis in ecological studies
 [🔗 NASA FIRMS Documentation](https://www.earthdata.nasa.gov/data/tools/firms)
 
 [🔗 Global Fire Data Access Porta](https://firms.modaps.eosdis.nasa.gov/download/)
+
+##NOTE:- Due to some Github Policy full code is not showing if u want to see you can message me!!!!
